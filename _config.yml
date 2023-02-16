@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : ""
-title_separator          : "-"
+title_separator          : "- M. Sahin"
 name                     : &name "Merve Sahin"
 description              : &description "personal description"
 url                      : https://mervesc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -72,17 +72,17 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+# analytics:
+#   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          :
 
 
 # Site Author
 author:
   name             : "Merve Sahin"
   avatar           : "profile.jpg"
-  bio              : "Researcher"
+  bio              : "Security Researcher"
   location         : "France"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -101,8 +101,7 @@ author:
   keybase          :
   instagram        :
  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : 
+  linkedin         : https://fr.linkedin.com/in/mervesahin
  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

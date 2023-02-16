@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I am a security researcher, currently part of the SAP Security
-Research team in France. Previously, I obtained my PhD in the Software&System
-Security (S3) group at EURECOM, where I also worked as a postdoctoral researcher.
-I have a wide
-range of research interests including enterprise & web security, active defense , 
+I am a security researcher, currently part of the [SAP Security
+Research](https://www.sap.com/about/company/innovation/icn.html?pdf-asset=8c5580cc-207e-0010-bca6-c68f7e60039b&page=1) team in France. 
+Previously, I obtained my PhD in the Software&System
+Security (S3) group at [EURECOM](https://s3.eurecom.fr), where I also worked as a postdoctoral researcher.
+I have a wide range of research interests including enterprise & web security, active defense, 
 anomaly and fraud detection, and human factors in cyber-security. 
 
 My PhD research focused on telecommunications fraud, and I had the opportunity
@@ -128,8 +128,7 @@ Media Coverage
 Other
 ======
 
--  Sap.io finalist
-
+-  Finalist in [SAP.iO](https://sap.io/) Intrapreneurship Program'22, participation to the 2-weeks Accelerator training phase. 
 
 
 
