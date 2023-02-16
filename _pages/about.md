@@ -31,13 +31,44 @@ runtime.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+ - **[An Approach to Generate Realistic HTTP Parameters for Application Layer Deception]()** \
+ M. Sahin, C. Hebert, R. Cabrera Lozoya., In proc. of the 20th International Conference on Applied
+Cryptography and Network Security (ACNS) 2022.
+
+- **[Measuring developers’ web security awareness from attack and defense perspectives](https://secweb.work/papers/2022/sahin2022developers.pdf)** \
 
 
-  - **[Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/ndss-paper/understanding-and-detecting-international-revenue-share-fraud/)**
+  - **[Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/ndss-paper/understanding-and-detecting-international-revenue-share-fraud/)** \
   M. Sahin, A. Francillon., Network and Distributed System Security Symposium (NDSS) 2021.
+
+  - **[A preliminary study on the adoption and effectiveness of SameSite cookies as a CSRF defence](https://secweb.work/papers/2021/compagna2021samesite.pdf)** \
+J. M. Kroschewski, L. Compagna, H. Jonker, B. Krumnow, M. Sahin.  In proc. of IEEE EuroS&P 2nd Workshop on
+Designing Security for the Web (SecWeb) 2021.
+
+-  **[Lessons Learned from SunDEW: A Self Defense Environment for Web Applications](https://www.ndss-symposium.org/ndss-paper/auto-draft-74/)** \
+M. Sahin, C. Hebert, A. Santana de Oliveira. . In Workshop on Measurements, Attacks, and Defenses for the
+Web (MADWeb’20) co-located with NDSS’20.
+
+- M. Relieu, M. Sahin, A. Francillon. Une approche configurationnelle des leurres conversationnels.
+Réseaux, La Découverte, 2020, Ethnographies des agents conversationnels, 220-221 (2), pp.81-11.
+
+- M. Sahin, A. Francillon. **[On the effectiveness of National Do-Not-Call lists](https://www.ieee-security.org/TC/SPW2018/ConPro/papers/sahin-conpro18.pdf)** \
+ In Workshop on
+Technology and Consumer Protection co-located with the IEEE Symposium on Security and Privacy
+(ConPro’18).
+
+-  M. Sahin, M. Relieu, A. Francillon. Using chatbots against voice spam: Analyzing Lenny’s effec-
+tiveness. In Proceedings of the 2nd IEEE Symposium on Usable Privacy and Security (SOUPS’17).
+
+- M. Sahin, A. Francillon, P. Gupta, and M. Ahamad. SOK: Fraud in telephony networks. In
+Proceedings of the 2nd IEEE European Symposium on Security and Privacy (EuroSP’17).
+
+- M. Sahin and A. Francillon. Over-The-Top bypass: Study of a recent telephony fraud. In Proceed-
+ings of the 23rd ACM conference on Computer and communications security (CCS’16).
 
   
 
@@ -48,15 +79,11 @@ Academic Service
   {% endfor %}</ul> -->
   
   <h2> Organizing Committee </h2>
-  -----
   
-  *  Co-Chair of **[Active Defense & Deception (AD&D) Workshop](https://adnd.work)**
-
+  *  Co-Chair of **[Active Defense & Deception (AD&D) Workshop](https://adnd.work)** \
   co-located with IEEE EuroS&P 2022 and 2023 
 
-
- ## {{Program Committee}}
- 
+  <h2> Program Committee </h2>
  
 
   -  **USENIX Security**: 2023, 2021
@@ -68,8 +95,6 @@ Academic Service
   -  **ConPro**
   -  **SecWeb**
   
-
-
 
 
   
@@ -86,6 +111,12 @@ Talks & Teaching
 - Invited talk at TROOPERS Telco Security Day, 2017.
 - Presentations at M3AAWG Voice and Telephony Abuse SIG Workshops, 2014, 2015 & 2016.
   
+
+Other
+======
+
+-  Sap.io finalist
+
 
 
 
