@@ -31,9 +31,7 @@ runtime.
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+
 
  - **[An Approach to Generate Realistic HTTP Parameters for Application Layer Deception]()** \
  M. Sahin, C. Hebert, R. Cabrera Lozoya., In proc. of the 20th International Conference on Applied
