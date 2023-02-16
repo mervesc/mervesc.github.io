@@ -87,7 +87,7 @@ author:
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=IuSZwWMAAAAJ&hl=en" 
-  email            :
+  email            :  merve.sahin at sap.com
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "mervesahin"
-  vine             :
+  mastodon         : https://infosec.exchange/@mervesahin
   weibo            :
   xing             :
   youtube          :
