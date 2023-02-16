@@ -35,6 +35,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+  - **[Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/ndss-paper/understanding-and-detecting-international-revenue-share-fraud/)**
+  M. Sahin, A. Francillon., Network and Distributed System Security Symposium (NDSS) 2021.
+
   
 
 Academic Service
@@ -43,15 +47,16 @@ Academic Service
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-  Organizing Committee
+  <h2> Organizing Committee </h2>
   -----
   
-  *  Co-Chair of **[Active Defense & Deception (AD&D) Workshop](https://adnd.work)**,
-  Co-located with IEEE EuroS&P 2022 and 2023 
+  *  Co-Chair of **[Active Defense & Deception (AD&D) Workshop](https://adnd.work)**
+
+  co-located with IEEE EuroS&P 2022 and 2023 
 
 
- Program Committee
- ======
+ ## {{Program Committee}}
+ 
  
 
   -  **USENIX Security**: 2023, 2021
