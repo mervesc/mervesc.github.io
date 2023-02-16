@@ -43,22 +43,25 @@ Academic Service
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
- ## Organization Committee
+  Organizing Committee
+  -----
   
-  * #### Co-Chair of Active Defense & Deception (AD&D) Workshop,
-  Co-located with IEEE EuroS&P 2022 and 2023 (https://adnd.work)
+  *  Co-Chair of **[Active Defense & Deception (AD&D) Workshop](https://adnd.work)**,
+  Co-located with IEEE EuroS&P 2022 and 2023 
 
 
- ## Program Committee
+ Program Committee
+ ======
+ 
 
-  - #### USENIX Security: 2023, 2021
-  - #### ACM CCS : 2023, 2022, 2021
-  - #### RAID: 2023, 2022, 2021
-  - #### ESORICS: 2022
-  - #### WiSec
-  - #### WiSec Poster&Demo Co-chair: 2020, 2021, 2023
-  - #### ConPro
-  - #### SecWeb
+  -  **USENIX Security**: 2023, 2021
+  -  **ACM CCS** : 2023, 2022, 2021
+  -  **RAID**: 2023, 2022, 2021
+  -  **ESORICS**: 2022
+  -  **WiSec**
+  -  **WiSec Poster&Demo** Co-chair: 2020, 2021, 2023
+  -  **ConPro**
+  -  **SecWeb**
   
 
 
