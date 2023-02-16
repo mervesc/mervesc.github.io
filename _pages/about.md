@@ -39,17 +39,46 @@ Publications
 
 Academic Service
 ======
-  <ul>{% for post in site.teaching %}
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
+  Organization Committee
+  ----------------
+  * Co-Chair of Active Defense & Deception (AD&D) Workshop, co-located with IEEE EuroS&P 2022 and 2023 (https://adnd.work)
+
+
+  Program Committee
+  -------------
+  - USENIX Security:
+  - ACM CCS : 
+  - RAID
+  - ESORICS
+  - WiSec
+  - ConPro
+  - SecWeb
+
+
+
+  Program Committee Co-Chair
+  ------
+  - WiSec Poster&Demo
+
+
 
   
 Talks & Teaching
 ======
-  <ul>{% for post in site.talks %}
+  <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+- Invited lecture at EURECOM, 2019-2023.
+- Invited lecture at North Carolina State University, 2021.
+- Invited talk at GSMA Fraud and Security Group, 2021.
+- Talk at CCC’18 on telephony fraud.
+- Panelist at RAG (Risk & Assurance Group) meeting, 2017.
+- Invited talk at TROOPERS Telco Security Day, 2017.
+- Presentations at M3AAWG Voice and Telephony Abuse SIG Workshops, 2014, 2015 & 2016.
   
 
 
