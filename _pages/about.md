@@ -40,10 +40,10 @@ Cryptography and Network Security (ACNS) 2022.
 - **[Measuring developers’ web security awareness from attack and defense perspectives](https://secweb.work/papers/2022/sahin2022developers.pdf)** \
 
 
-  - **[Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/ndss-paper/understanding-and-detecting-international-revenue-share-fraud/)** \
+- **[Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/ndss-paper/understanding-and-detecting-international-revenue-share-fraud/)** \
   M. Sahin, A. Francillon., Network and Distributed System Security Symposium (NDSS) 2021.
 
-  - **[A preliminary study on the adoption and effectiveness of SameSite cookies as a CSRF defence](https://secweb.work/papers/2021/compagna2021samesite.pdf)** \
+- **[A preliminary study on the adoption and effectiveness of SameSite cookies as a CSRF defence](https://secweb.work/papers/2021/compagna2021samesite.pdf)** \
 J. M. Kroschewski, L. Compagna, H. Jonker, B. Krumnow, M. Sahin.  In proc. of IEEE EuroS&P 2nd Workshop on
 Designing Security for the Web (SecWeb) 2021.
 
