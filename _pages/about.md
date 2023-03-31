@@ -102,6 +102,7 @@ Talks & Teaching
   <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+- Lightning talk at [IARPA ReSCIND Proposers' day](https://www.iarpa.gov/images/PropsersDayPDFs/ReSCIND/L02_-_Lightening_Talk_-_SAP_-_MS.pdf), 2023. 
 - Guest lecture at EURECOM, 2019-2023.
 - Guest lecture at North Carolina State University, 2021.
 - Invited talk at [GSMA Fraud and Security Group](https://www.gsma.com/aboutus/workinggroups/fraud-security-group), 2021.
