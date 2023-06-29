@@ -39,35 +39,35 @@ Publications
 Cryptography and Network Security (ACNS) 2022.
 
 - **[Measuring developers’ web security awareness from attack and defense perspectives](https://secweb.work/papers/2022/sahin2022developers.pdf)** \
-M. Sahin, T. Ünlü, C. Hébert, L.A. Shepherd, N. Coull, C. Mc Lean. In Proceedings of the IEEE EuroS&P 3rd Workshop on
+ M. Sahin, T. Ünlü, C. Hébert, L.A. Shepherd, N. Coull, C. Mc Lean. In Proceedings of the IEEE EuroS&P 3rd Workshop on
 Designing Security for the Web (SecWeb) 2022.
 
 - **[Understanding and Detecting International Revenue Share Fraud](https://www.ndss-symposium.org/ndss-paper understanding-and-detecting-international-revenue-share-fraud/)** \
-  M. Sahin, A. Francillon. Network and Distributed System Security Symposium (NDSS) 2021.
+ M. Sahin, A. Francillon. Network and Distributed System Security Symposium (NDSS) 2021.
 
 - **[A preliminary study on the adoption and effectiveness of SameSite cookies as a CSRF defence](https://secweb.work/papers/2021/compagna2021samesite.pdf)** \
 J. M. Kroschewski, L. Compagna, H. Jonker, B. Krumnow, M. Sahin.  In Proceedings of the IEEE EuroS&P 2nd Workshop on
 Designing Security for the Web (SecWeb) 2021.
 
 -  **[Lessons Learned from SunDEW: A Self Defense Environment for Web Applications](https://www.ndss-symposium.org/ndss-paper/auto-draft-74/)** \
-M. Sahin, C. Hebert, A. Santana de Oliveira. . In Workshop on Measurements, Attacks, and Defenses for the
+ M. Sahin, C. Hebert, A. Santana de Oliveira. . In Workshop on Measurements, Attacks, and Defenses for the
 Web (MADWeb’20) co-located with NDSS’20.
 
 -  **[Une approche configurationnelle des leurres conversationnels](https://hal.telecom-paris.fr/hal-02696398)** \
-M. Relieu, M. Sahin, A. Francillon. Réseaux, La Découverte, 2020, Ethnographies des agents conversationnels, 220-221 (2), pp.81-11.
+ M. Relieu, M. Sahin, A. Francillon. Réseaux, La Découverte, 2020, Ethnographies des agents conversationnels, 220-221 (2), pp.81-11.
 
 -  **[On the effectiveness of National Do-Not-Call lists](https://www.ieee-security.org/TC/SPW2018/ConPro/papers/sahin-conpro18.pdf)** \
  M. Sahin, A. Francillon. In Workshop on Technology and Consumer Protection co-located with the IEEE Symposium on Security and Privacy
 (ConPro) 2018.
 
 -  **[Using chatbots against voice spam: Analyzing Lenny’s effectiveness](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/sahin)** \
-M. Sahin, M. Relieu, A. Francillon., In Proceedings of the 2nd IEEE Symposium on Usable Privacy and Security (SOUPS) 2017.
+ M. Sahin, M. Relieu, A. Francillon., In Proceedings of the 2nd IEEE Symposium on Usable Privacy and Security (SOUPS) 2017.
 
 - **[SOK: Fraud in telephony networks](https://oaklandsok.github.io/papers/sahin2017.pdf)** \
   M. Sahin, A. Francillon, P. Gupta, and M. Ahamad. In Proceedings of the 2nd IEEE European Symposium on Security and Privacy (EuroSP’17).
 
 -  **[Over-The-Top bypass: Study of a recent telephony fraud](https://www.s3.eurecom.fr/docs/ccs16_sahin.pdf)** \
-M. Sahin, A. Francillon. In Proceedings of the 23rd ACM conference on Computer and communications security (CCS) 2016.
+ M. Sahin, A. Francillon. In Proceedings of the 23rd ACM conference on Computer and communications security (CCS) 2016.
 
   
 
@@ -85,7 +85,8 @@ Academic Service
   <h2> Program Committee </h2>
  
 
-  -  **USENIX Security**: 2023, 2021
+  -  **USENIX Security**: 2024, 2023, 2021
+  -  **NDSS**: 2024
   -  **ACM CCS** : 2023, 2022, 2021
   -  **RAID**: 2023, 2022, 2021
   -  **ESORICS**: 2022
@@ -102,6 +103,7 @@ Talks & Teaching
   <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+- Invited talk at TRUSTNET Workshop, 2023.
 - Lightning talk at [IARPA ReSCIND Proposers' day](https://www.iarpa.gov/images/PropsersDayPDFs/ReSCIND/L02_-_Lightening_Talk_-_SAP_-_MS.pdf), 2023. 
 - Guest lecture at EURECOM, 2019-2023.
 - Guest lecture at North Carolina State University, 2021.
@@ -117,13 +119,13 @@ Media Coverage
 =====
   - [Fraud on the line](https://imtech.wp.imt.fr/en/2018/09/06/fraud-on-the-line/), IMT science and technology news.
 
-  - [Phone fraudsters are stealing billions each year through a scheme known as IRSF](https://www.zdnet.com/article/phone-fraudsters-are-stealing-billions-each-year-through-a-scheme-known-as-irsf/) Catalin Cimpanu, ZDNet.
+  - [Phone fraudsters are stealing billions each year through a scheme known as IRSF](https://www.zdnet.com/article/phone-fraudsters-are-stealing-billions-each-year-through-a-scheme-known-as-irsf/), Catalin Cimpanu, ZDNet.
 
-  - [Phone-based fraud scheme IRSF is stealing billions each year](https://cyware.com/news/phone-based-fraud-scheme-irsf-is-stealing-billions-each-year-708f09fc) Cyware Hacker News. 
+  - [Phone-based fraud scheme IRSF is stealing billions each year](https://cyware.com/news/phone-based-fraud-scheme-irsf-is-stealing-billions-each-year-708f09fc), Cyware Hacker News. 
 
-  - [Academics Recommend Mix of Machine Learning and Premium Rate Number Monitoring to Detect IRSF](https://commsrisk.com/academics-recommend-mix-of-machine-learning-and-premium-rate-number-monitoring-to-detect-irsf/) Eric Priezkalns, CommsRisk.
+  - [Academics Recommend Mix of Machine Learning and Premium Rate Number Monitoring to Detect IRSF](https://commsrisk.com/academics-recommend-mix-of-machine-learning-and-premium-rate-number-monitoring-to-detect-irsf/), Eric Priezkalns, CommsRisk.
 
-
+  - [Bonjour, c’est Lenny !](https://www.kaspersky.fr/blog/35c3-lenny-voice-chatbot/11307/), Alex Perekalin, Kaspersky daily. 
 
 
 Other
