@@ -39,7 +39,7 @@ P. Ladisa, M. Sahin, S. Ponta, M. Rosa, M. Martinez, O. Barais., In Proceedings
 of the ACM CCS Workshop on Software Supply Chain Offensive Research and
 Ecosystem Defenses (SCORED) 2023. 
 
-- **[Simulating Deception for Web Applications Using Reinforcement Learning](https://drive.google.com/file/d/1cOYfubTo-zPvtF4VJ4K7_d3P0Ntwmlpu/view)**
+- **[Simulating Deception for Web Applications Using Reinforcement Learning](https://drive.google.com/file/d/1cOYfubTo-zPvtF4VJ4K7_d3P0Ntwmlpu/view)**\
 A. Kvasov, M. Sahin, C. Hebert, A. Santana de Oliveira. In proceedings of the
 SECAI workshop co-located with ESORICS 2023. 
 
