@@ -20,9 +20,10 @@ My PhD research focused on telecommunications fraud, and I had the opportunity
 to present my work in various academic conferences (such as ACM CCS, NDSS, SOUPS), and also
 industry-recognized venues (such as GSMA Fraud&Security group, M3AAWG, CCC).
 
-At SAP, I am working on using active defense and deception techniques to engage with
-attackers in the cloud landscape, and improving visibility into the application
-runtime. I have created the [AD&D Workshop](https://adnd.work) in 2022, to bring together 
+At SAP, I am mainly working on web application security, including dynamic security
+testing, and improving visibility into the application
+runtime using active defense techniques and security-relevant logging. 
+I have created the [AD&D Workshop](https://adnd.work) in 2022, to bring together 
 the researchers working on active defense related topics. 
 
 {% include base_path %}
@@ -33,6 +34,14 @@ the researchers working on active defense related topics.
 Publications
 ======
 
+ - **[The Hitchhiker's Guide to Malicious Third-Party Dependencies](https://arxiv.org/pdf/2307.09087.pdf)**\
+P. Ladisa, M. Sahin, S. Ponta, M. Rosa, M. Martinez, O. Barais., In Proceedings
+of the ACM CCS Workshop on Software Supply Chain Offensive Research and
+Ecosystem Defenses (SCORED) 2023. 
+
+- **[Simulating Deception for Web Applications Using Reinforcement Learning](https://drive.google.com/file/d/1cOYfubTo-zPvtF4VJ4K7_d3P0Ntwmlpu/view)**
+A. Kvasov, M. Sahin, C. Hebert, A. Santana de Oliveira. In proceedings of the
+SECAI workshop co-located with ESORICS 2023. 
 
  - **[An Approach to Generate Realistic HTTP Parameters for Application Layer Deception](http://mervesc.github.io/files/2022_ACNS.pdf)** \
  M. Sahin, C. Hebert, R. Cabrera Lozoya., In proc. of the 20th International Conference on Applied
@@ -50,7 +59,7 @@ J. M. Kroschewski, L. Compagna, H. Jonker, B. Krumnow, M. Sahin.  In Proceedings
 Designing Security for the Web (SecWeb) 2021.
 
 -  **[Lessons Learned from SunDEW: A Self Defense Environment for Web Applications](https://www.ndss-symposium.org/ndss-paper/auto-draft-74/)** \
- M. Sahin, C. Hebert, A. Santana de Oliveira. . In Workshop on Measurements, Attacks, and Defenses for the
+ M. Sahin, C. Hebert, A. Santana de Oliveira., In Workshop on Measurements, Attacks, and Defenses for the
 Web (MADWeb’20) co-located with NDSS’20.
 
 -  **[Une approche configurationnelle des leurres conversationnels](https://hal.telecom-paris.fr/hal-02696398)** \
