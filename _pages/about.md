@@ -34,6 +34,10 @@ the researchers working on active defense related topics.
 Publications
 ======
 
+ - **[Towards Understanding and Improving Security-Relevant Web Application Logging](http://mervesc.github.io/files/2024_ASIACCS.pdf)**\
+M. Sahin, N. Daniele., In Proceedings
+of the ACM Asia Conference on Computer and Communications Security (ASIA CCS) 2024. 
+
  - **[The Hitchhiker's Guide to Malicious Third-Party Dependencies](https://arxiv.org/pdf/2307.09087.pdf)**\
 P. Ladisa, M. Sahin, S. Ponta, M. Rosa, M. Martinez, O. Barais., In Proceedings
 of the ACM CCS Workshop on Software Supply Chain Offensive Research and
@@ -114,7 +118,7 @@ Talks & Teaching
   {% endfor %}</ul> -->
 - Invited talk at TRUSTNET Workshop, 2023.
 - Lightning talk at [IARPA ReSCIND Proposers' day](https://www.iarpa.gov/images/PropsersDayPDFs/ReSCIND/L02_-_Lightening_Talk_-_SAP_-_MS.pdf), 2023. 
-- Guest lecture at EURECOM, 2019-2023.
+- Guest lecture at EURECOM, 2019-2024.
 - Guest lecture at North Carolina State University, 2021.
 - Invited talk at [GSMA Fraud and Security Group](https://www.gsma.com/aboutus/workinggroups/fraud-security-group), 2021.
 - Talk ["Exploring Fraud in Telephony Networks"](https://media.ccc.de/v/35c3-9852-
