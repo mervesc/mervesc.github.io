@@ -9,22 +9,22 @@ redirect_from:
 ---
 
 
-I am a security researcher, currently part of the [SAP Security
-Research](https://www.sap.com/about/company/innovation/icn.html?pdf-asset=8c5580cc-207e-0010-bca6-c68f7e60039b&page=1) team in France. 
-Previously, I obtained my PhD in the Software&System
-Security (S3) group at [EURECOM](https://s3.eurecom.fr), where I also worked as a postdoctoral researcher.
+I am a security researcher, currently part of SAP's Product Security team.
+I am working on various topics around secure software development
+lifecycle, including  static and dynamic security testing, security of (agentic)
+AI applications, secure development with AI coding agents, and security-relevant
+logging.
+
 I have a wide range of research interests including enterprise & web security, active defense, 
 anomaly and fraud detection, and human factors in cyber-security. 
+I have created the [AD&D Workshop](https://adnd.work) in 2022, to promote active defense and deception as an additional security layer. 
 
+
+Previously, I obtained my PhD in the Software&System
+Security (S3) group at [EURECOM](https://s3.eurecom.fr), where I also worked as a postdoctoral researcher.
 My PhD research focused on telecommunications fraud, and I had the opportunity
 to present my work in various academic conferences (such as ACM CCS, NDSS, SOUPS), and also
-industry-recognized venues (such as GSMA Fraud&Security group, M3AAWG, CCC).
-
-At SAP, I am mainly working on web application security, including dynamic security
-testing, and improving visibility into the application
-runtime using active defense techniques and security-relevant logging. 
-I have created the [AD&D Workshop](https://adnd.work) in 2022, to bring together 
-the researchers working on active defense related topics. 
+industry-recognized venues (such as GSMA Fraud&Security group, M3AAWG, 35C3).
 
 {% include base_path %}
 
@@ -93,16 +93,18 @@ Academic Service
   <h2> Organizing Committee </h2>
   
   *  Co-Chair of **[Active Defense & Deception (AD&D) Workshop](https://adnd.work)** \
-  co-located with IEEE EuroS&P 2022 and 2023 
+  co-located with IEEE EuroS&P 2022-2025 
 
   <h2> Program Committee </h2>
  
 
   -  **USENIX Security**: 2024, 2023, 2021
   -  **NDSS**: 2024
-  -  **ACM CCS** : 2023, 2022, 2021
-  -  **RAID**: 2023, 2022, 2021
+  -  **ACM CCS** : 2026, 2023, 2022, 2021
+  -  **RAID**: 2025, 2023, 2022, 2021
+  -  **IEEE SecDev**: 2025
   -  **ESORICS**: 2022
+  -  **MADWeb**: 2025
   -  **WiSec** 2018-2020, 2022 
   -  **WiSec Poster&Demo** Co-chair: 2020, 2021, 2023
   -  **ConPro** 2018-2023
@@ -116,13 +118,15 @@ Talks & Teaching
   <!-- <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
+- Invited talk at SophIA Summit, 2025.
 - Invited talk at TRUSTNET Workshop, 2023.
 - Lightning talk at [IARPA ReSCIND Proposers' day](https://www.iarpa.gov/images/PropsersDayPDFs/ReSCIND/L02_-_Lightening_Talk_-_SAP_-_MS.pdf), 2023. 
-- Guest lecture at EURECOM, 2019-2024.
+- Guest lecture at EURECOM, 2019-2026.
 - Guest lecture at North Carolina State University, 2021.
 - Invited talk at [GSMA Fraud and Security Group](https://www.gsma.com/aboutus/workinggroups/fraud-security-group), 2021.
 - Talk ["Exploring Fraud in Telephony Networks"](https://media.ccc.de/v/35c3-9852-
-exploring_fraud_in_telephony_networks/related) at [Chaos Congress Club](https://events.ccc.de/congress/2018/wiki/index.php/Main_Page) (CCC) 2018.
+exploring_fraud_in_telephony_networks/related) at [Chaos Congress
+Club](https://events.ccc.de/congress/2018/wiki/index.php/Main_Page) (35C3) 2018.
 - Panelist at [RAG (Risk & Assurance Group)](https://riskandassurancegroup.org/bonn-conference-21-22-june-2017/) meeting, 2017.
 - Invited talk at [TROOPERS Telco Security Day](https://troopers.de/troopers17/telco-sec-day/), 2017.
 - Presentations at [M3AAWG Voice and Telephony Abuse SIG Workshops](https://www.m3aawg.org/voice-and-telephony-anti-abuse-workshop-and-mobile-track), 2014, 2015 & 2016.
